@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8WBX4zbEFl9nT88WJYQ6JcnSRKQQ51lYY1aMCAFLFWZ1IDtUvFlOkohd4lPShZEe0oNTKxlgFj+1ylIXuWRqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Client-SIC\\Desktop\\Game dev\\Microsoft-C\\Guided-project-looping\\GuidedProject\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
